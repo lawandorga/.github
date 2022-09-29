@@ -24,12 +24,12 @@ lawandorga-chat-frontend
 
 ### All Other Names
 
-The thing to be named will be called `object`. Any object that needs a name, for example a database or a docker image, should have the same as the repository that is the reason for this object's existence.  
+The thing to be named will be called `object`. Any `object` that needs a name, for example a database or a docker image, should have the same as the repository that is the reason for this object's existence.  
 
-If some signs are not allowed or only a specific amount of letters is allowed the names should be changed in the following order until the name is allowed:
+If some signs are not allowed or only a specific amount of letters is allowed the name should be changed in the following order until the name is allowed:
 
 1. Remove `-` signs
 2. Remove `lawandorga`
 3. Remove signs starting from the back
 
-If the object only applies to a specific branch the branch should be added at the end.
+If the `object` only applies to a specific branch the branch should be added at the end.
