@@ -24,7 +24,9 @@ lawandorga-chat-frontend
 
 ### All Other Names
 
-All other for example for databases or images names should be the same as repository names. The thing to be named will be called `object`. If some signs are not allowed or only a specific amount of letters is allowed the names should be changed in the following order until the name is allowed:
+The thing to be named will be called `object`. All other names, for example for databases or images, should be the same as the repository name that is the reason for this object's existence.  
+
+If some signs are not allowed or only a specific amount of letters is allowed the names should be changed in the following order until the name is allowed:
 
 1. Remove `-` signs
 2. Remove `lawandorga`
