@@ -1,6 +1,6 @@
 # Law&Orga
 
-Welcome to our GitHub space. All of Law&Orga's code is here.
+Welcome to our GitHub space. All of Law&Orga's code is here. This document collects important information for the developers on this project. It contains rules that should be followed and material that is recommended for developing.
 
 ## Rules
 
@@ -33,3 +33,11 @@ If some signs are not allowed or only a specific amount of letters is allowed th
 3. Remove signs starting from the back
 
 If the `object` only applies to a specific branch the branch should be added at the end. The branch should not be removed, steps 1 to 3 need to be done before the branch is added.
+
+## Material
+
+The following material is recommended to be understood, because the development tries to follow the principals discussed in those materials.
+
+[https://basecamp.com/shapeup](https://basecamp.com/shapeup)
+
+
