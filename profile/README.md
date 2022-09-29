@@ -10,7 +10,7 @@ Here are some rules, that can not be enforced by code. These rules always apply 
 
 1. Every repository should start with `lawandorga` in order to make the github search easier.
 2. In the middle should be a meaningful name that describes the content of the repository, preferrably one word.
-3. In the end should be the type of the repository, these can one of the following: `server`, `service`, `frontend` or `utils`. If the type is `server` the repository should be able to create a whole server, if the name is `service` it should be a deployable app for example a docker container, if it is `frontend` it should be deployable on a cdn and `utils` should be installable in other repositories.
+3. In the end should be the type of the repository, this can be one of the following: `server`, `service`, `frontend` or `utils`. If the type is `server` the repository should be able to create a whole server, if the name is `service` it should be a deployable app for example a docker container, if it is `frontend` it should be deployable on a cdn and `utils` should be installable in other repositories.
 4. If the repository is out of date ist should adhere to the other rules and add `obsolete` in the end.
 
 Those rules result in the following pattern:
