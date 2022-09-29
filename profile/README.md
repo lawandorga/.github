@@ -36,7 +36,7 @@ If the `object` only applies to a specific branch the branch should be added at 
 
 ## Material
 
-The following material is recommended to be understood, because the development tries to follow the principals discussed in those materials.
+The following material is recommended to be understood, because the development tries to follow the principals discussed in those books or articles.
 
 [https://basecamp.com/shapeup](https://basecamp.com/shapeup)
 
