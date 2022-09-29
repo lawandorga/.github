@@ -19,7 +19,7 @@ lawandorga-[name]-[type]?(-obsolete)
 
 Examples of repository names:
 
-lawandorga-django-utils
+lawandorga-django-utils \
 lawandorga-chat-frontend
 
 ### Image Names
