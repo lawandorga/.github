@@ -22,20 +22,12 @@ Examples of repository names:
 lawandorga-django-utils \
 lawandorga-chat-frontend
 
-### Image Names
+### All Other Names
 
-Image names should be the same as repository names. If the image is not for the main branch it should include the branch at the end.
-
-### Database Names
-
-Database names should be the same as repository names, but without the type. If the database is not for the main branch it should include the branch at the end.
-
-### Instance Names And Container Or Web App Names
-
-These names should be the same as the repository name. If some signs are not allowed or only a small amount of chars the names should be changed in the following order until the name is allowed:
+All other for example for databases or images names should be the same as repository names. The thing to be named will be called `object`. If some signs are not allowed or only a specific amount of letters is allowed the names should be changed in the following order until the name is allowed:
 
 1. Remove `-` signs
 2. Remove `lawandorga`
 3. Remove signs starting from the back
 
-If the instance only applies to a specific branch the branch should be added at the end.
+If the object only applies to a specific branch the branch should be added at the end.
