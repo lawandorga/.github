@@ -32,4 +32,4 @@ If some signs are not allowed or only a specific amount of letters is allowed th
 2. Remove `lawandorga`
 3. Remove signs starting from the back
 
-If the `object` only applies to a specific branch the branch should be added at the end.
+If the `object` only applies to a specific branch the branch should be added at the end. The branch should not be removed, steps 1 to 3 need to be done before the branch is added.
