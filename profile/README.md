@@ -24,7 +24,7 @@ lawandorga-chat-frontend
 
 ### All Other Names
 
-The thing to be named will be called `object`. All other names, for example for databases or images, should be the same as the repository name that is the reason for this object's existence.  
+The thing to be named will be called `object`. Any object that needs a name, for example a database or a docker image, should have the same as the repository that is the reason for this object's existence.  
 
 If some signs are not allowed or only a specific amount of letters is allowed the names should be changed in the following order until the name is allowed:
 
